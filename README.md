@@ -8,11 +8,15 @@
 
 <p align="left"> <a href="https://twitter.com/rusiral" target="blank"><img src="https://img.shields.io/twitter/follow/rusiral?logo=twitter&style=for-the-badge" alt="rusiral" /></a> </p>
 
+- 🎓 BSC(Hons) in Information Technology specializing in Software Engineering at Sri Lanka Institue of Information Technology(SLIIT), Malabe, Sri Lanka
+
+- 🎓 Presently, pursuing a Master of Computer Science at University of Wollongong(UOW), NSW, Australia
+
 - 📝 I regularly write articles on [https://medium.com/@rusira-senath](https://medium.com/@rusira-senath)
 
 - 📫 How to reach me **rusira.senath@gmail.com**
 
-- ⚡ Fun fact **I am House Music Lover :)**
+- ⚡ Fun fact **I am House Music Lover and a House Music Producer :)**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
