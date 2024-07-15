@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **rusira.senath@gmail.com**
 
-- ⚡ Fun fact **I am House Music Lover and a House Music Producer :)**
+- ⚡ Fun fact **I am a House Music Lover and a House Music Producer :)**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
