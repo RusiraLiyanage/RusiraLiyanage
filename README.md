@@ -1,6 +1,6 @@
 [<Center>![MasterHead](https://rishavanand.github.io/static/images/greetings.gif)</Center>]()
 <h1 align="center">Hi 👋, I'm Rusira Senath Liyanage</h1>
-<h3 align="center">I am a Software Engineer and a Technology Enthusiastic</h3>
+<h3 align="center">I am a Software Engineer and a Technology Enthusiast</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/chiraag-kakar/chiraag-kakar/master/hadder.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rusiraliyanage&label=Profile%20views&color=0e75b6&style=flat" alt="rusiraliyanage" /> </p>
 
