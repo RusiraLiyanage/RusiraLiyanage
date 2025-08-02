@@ -10,7 +10,7 @@
 
 - 🎓 BSC(Hons) in Information Technology specializing in Software Engineering at Sri Lanka Institue of Information Technology(SLIIT), Malabe, Sri Lanka
 
-- 🎓 Presently, pursuing a Master of Computer Science at University of Wollongong(UOW), NSW, Australia
+- 🎓 Master of Computer Science majoring in Software Engineering at University of Wollongong(UOW), NSW, Australia
 
 - 📝 I regularly write articles on [https://medium.com/@rusira-senath](https://medium.com/@rusira-senath)
 
