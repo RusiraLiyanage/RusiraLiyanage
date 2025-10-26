@@ -18,10 +18,6 @@
 
 - ⚡ Fun fact **I am a House Music Lover and a House Music Producer :)**
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/rusiral" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rusiral" height="30" width="40" /></a>
