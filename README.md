@@ -12,6 +12,8 @@
 
 - 🎓 Master of Computer Science majoring in Software Engineering at University of Wollongong(UOW), NSW, Australia
 
+- 🚀 I’m a Software Engineer at Innomente Pty Ltd, a cutting-edge MedTech company in Wollongong driving digital health innovation.
+
 - 📝 I regularly write articles on [https://medium.com/@rusira-senath](https://medium.com/@rusira-senath)
 
 - 📫 How to reach me **rusira.senath@gmail.com**
