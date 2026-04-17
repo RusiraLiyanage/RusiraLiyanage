@@ -20,7 +20,7 @@
 
 - ⚡ Fun fact **I am a House Music Lover and a House Music Producer :)**
 
-- 🚀 To visit my organisation github account [https://github.com/InnomenteRusira]
+- 🚀 To visit my organisation github account [https://github.com/InnomenteRusira](https://github.com/InnomenteRusira)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
