@@ -12,7 +12,9 @@
 
 - 🎓 Master of Computer Science majoring in Software Engineering at University of Wollongong(UOW), NSW, Australia
 
-- 🚀 I’m a Software Engineer at Innomente Pty Ltd, a cutting-edge MedTech company in Wollongong driving digital health innovation.
+- 🚀 Software Engineer with ~2 years of experience delivering scalable solutions in a MedTech SaaS environment, building mobile and full-stack applications that support real-world healthcare workflows.
+
+- 🚀 Experienced in React, Flutter, Node.js, and PostgreSQL, with additional experience in Robotic Process Automation (RPA) using UiPath to streamline operational processes and improve efficiency.
 
 - 📝 I regularly write articles on [https://medium.com/@rusira-senath](https://medium.com/@rusira-senath)
 
